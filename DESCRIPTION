@@ -4,11 +4,11 @@ Version: 0.0.1
 Authors@R: 
     c(person(given = "Iuliia",
            family = "Alieva",
-           role = c("aut", "cre"),
+           role = c("aut"),
            email = "iuliia.alieva@gmail.com"),
     person(given = "Michael W.",
            family = "Kearney",
-           role = c("aut"),
+           role = c("aut", "cre"),
            email = "kearneymw@missouri.edu",
            comment = c(ORCID = "0000-0002-0730-4694")),
     person(given = "Jihye",
