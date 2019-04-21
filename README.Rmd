@@ -15,6 +15,9 @@ knitr::opts_chunk$set(
 # cngtweets
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/mkearney/cngtweets.svg?branch=master)](https://travis-ci.org/mkearney/cngtweets)
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![CRAN status](https://www.r-pkg.org/badges/version/cngtweets)](https://cran.r-project.org/package=cngtweets)
 <!-- badges: end -->
 
 The goal of cngtweets is to ...

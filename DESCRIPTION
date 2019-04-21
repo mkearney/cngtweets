@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/mkearney/cngtweets
 BugReports: https://github.com/mkearney/cngtweets/issues
+RoxygenNote: 6.1.1
